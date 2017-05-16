@@ -1,15 +1,31 @@
 html {
   background-color: black;
   color: white;
-  font-family: sans-serif;
+  font-family: Verdana, sans-serif;
   text-align: center;
 }
 
-.article1 p,
-.footer p {
-  color: grey;
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.header {
+  font-size: 50px;
+
 }
 
 .footer {
   text-align: right;
+}
+
+.article1 h1 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.article1 p,
+.footer p {
+  color: gray;
+  font-size: 21px;
 }
