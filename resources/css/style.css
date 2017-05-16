@@ -1,8 +1,9 @@
 html {
   background-color: black;
   color: white;
+  text-align: center;
 }
 
-header {
-  text-align: center;
+.header {
+
 }
